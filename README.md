@@ -1,2 +1,3 @@
-# foulees-quincy
-Page liens du magasin Foulées Quincy-sous-Sénart
+# Foulées Quincy-sous-Sénart
+
+Page liens du magasin (avis Google, itinéraire, réseaux), en ligne sur GitHub Pages.
