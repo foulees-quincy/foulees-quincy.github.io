@@ -1,16 +1,20 @@
 # Foulées Quincy-sous-Sénart
 
-> Foulées Quincy-sous-Sénart est votre magasin running à Quincy-sous-Sénart, ouvert à tous. Au programme : analyse de foulée sur tapis, chaussures running et trail, textile et accessoires, triathlon, randonnée et marche nordique. -25 € dès 100 € d'achat jusqu'au 31/12 (hors promotion, hors soldes, non cumulable) Ouvert du lundi au samedi de 10h à 19h30. Rendez-vous 17 rue des Deux Communes, 91480 Quincy-sous-Sénart.
+> Magasin spécialisé running, trail, triathlon, randonnée et marche nordique, ouvert le 6 novembre 2026 au 17 rue des Deux Communes, 91480 Quincy-sous-Sénart (Essonne, zone commerciale du Val d'Yerres). Analyse de foulée sur tapis, plus de 50 marques, tous niveaux, du débutant au traileur. Magasin du réseau Foulées.
 
 - Adresse : 17 rue des Deux Communes, 91480 Quincy-sous-Sénart
 - Téléphone : 01 69 05 68 12
-- Horaires : du lundi au samedi de 10h à 19h30
-- Type : Magasin de sport, running, vélo, outdoor (modèle Foulées)
+- E-mail : 91quincy@foulees.com
+- Horaires : du lundi au samedi de 10h à 19h30 (mercredi 11 novembre 2026 : 10h-18h)
+- Offre d'ouverture : -25 € dès 100 € d'achat jusqu'au 31/12/2026 (hors promotion, hors soldes, non cumulable)
+- Page magasin officielle : https://foulees.com/-quincy-sous-senart-
+- Instagram : https://www.instagram.com/foulees_quincy_sous_senart/
 
-## Questions fréquentes
-- Où se trouve Foulées Quincy-sous-Sénart ? Foulées Quincy-sous-Sénart se trouve 17 rue des Deux Communes, 91480 Quincy-sous-Sénart. Itinéraire et stationnement : voir la fiche Google.
-- Quels sont les horaires de Foulées Quincy-sous-Sénart ? Foulées Quincy-sous-Sénart est ouvert du lundi au samedi de 10h à 19h30. Fermetures et horaires exceptionnels à venir : 11/11 10h-18h.
-- Comment contacter Foulées Quincy-sous-Sénart ? Vous pouvez joindre Foulées Quincy-sous-Sénart par téléphone au 01 69 05 68 12. Vous pouvez aussi passer directement 17 rue des Deux Communes à Quincy-sous-Sénart.
-- Que propose Foulées Quincy-sous-Sénart ? Foulées Quincy-sous-Sénart propose : analyse de foulée sur tapis, chaussures running et trail, textile et accessoires, triathlon, randonnée et marche nordique. Pour une demande précise, le plus simple est d'appeler ou de passer en boutique.
-- Y a-t-il une offre en cours chez Foulées Quincy-sous-Sénart ? Oui : -25 € dès 100 € d'achat jusqu'au 31/12 (hors promotion, hors soldes, non cumulable). Les conditions exactes sont données sur place.
-- Où suivre l'actualité de Foulées Quincy-sous-Sénart ? Sur Instagram @foulees_quincy_sous_senart et Facebook Foulées Quincy-Sous-Sénart. Les nouveautés et les horaires exceptionnels y sont annoncés.
+## Pages
+- [Accueil](https://foulees-quincy.github.io/) : le magasin, horaires, accès, questions fréquentes
+- [Analyse de foulée en Essonne](https://foulees-quincy.github.io/analyse-de-foulee-quincy-sous-senart.html) : le Labo, déroulé sur tapis, ce que disent les clients
+- [Magasin running à Sénart](https://foulees-quincy.github.io/magasin-running-senart.html)
+- [Chaussures de trail en Essonne](https://foulees-quincy.github.io/chaussures-trail-essonne.html)
+- [Magasin triathlon à Sénart](https://foulees-quincy.github.io/triathlon-senart.html)
+- [Débuter la course à pied](https://foulees-quincy.github.io/debuter-course-a-pied.html)
+- [Près de Brunoy, Boussy, Épinay, Combs-la-Ville](https://foulees-quincy.github.io/magasin-running-brunoy-boussy-epinay-combs.html)
